@@ -17,9 +17,7 @@
 ### Portfolio:
 
 - https://julia2017-yg.github.io/delivary/
-
 - https://julia2017-yg.github.io/spaceX/
-
 - https://julia2017-yg.github.io/Batman/
 - https://julia2017-yg.github.io/distance/
 
